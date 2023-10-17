@@ -39,6 +39,6 @@ python game.py
 ```
 ## Screenshots
 #### Gameplay:
-![Gameplay](https://github.com/RyanGamingYT/Rock-Paper-Scissors/blob/main/Screenshots/Gameplay.JPG)
+![Gameplay](Screenshots/Gameplay.JPG)
 #### Scores:
-![Scores](https://github.com/RyanGamingYT/Rock-Paper-Scissors/blob/main/Screenshots/Scores.JPG)
+![Scores](/Screenshots/Scores.JPG)
