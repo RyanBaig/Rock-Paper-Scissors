@@ -23,22 +23,33 @@ This repository contains a Python program that lets you play the classic Rock Pa
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/RyanGamingYT/rock-paper-scissors.git
+git clone https://github.com/RyanBaig/rock-paper-scissors.git
 ```
+
 2. Navigate to the project directory:
+
 ```shell
 cd rock-paper-scissors
 ```
+
 3. Install the dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
+
 4. Run the game:
+
 ```shell
 python game.py
 ```
+
 ## Screenshots
+
 #### Gameplay:
+
 ![Gameplay](Screenshots/Gameplay.JPG)
+
 #### Scores:
+
 ![Scores](/Screenshots/Scores.JPG)
